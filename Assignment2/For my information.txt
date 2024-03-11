@@ -1,0 +1,2 @@
+Use indicNER from myiitkdata google drive (I have stored both notebooks training and testing in this drive. Required checkpoint i.e. checkpoint-31250 is also stored in this drive)
+Use indicBERT from mitaoe googledrive (I have stored both notebooks training and testing in this drive. I have also stored saved_model in same drive)
